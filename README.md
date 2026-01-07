@@ -20,4 +20,23 @@ The primay source of Data used here is Data Sale.csv and this is an open source 
   - Calculated fields
   - Excel Tables
   - Dashboard design best practices
+ 
+### Data Cleaning and Preparation
+Before analysis and dashboard development, the dataset was cleaned and structured to ensure accuracy and consistency:
+
+  - Removed duplicate records and validated data integrity
+  - Standardized column formats (dates, currency, numeric fields)
+  - Checked for missing or invalid values and handled them appropriately
+  - Converted raw data into Excel Tables for easier analysis and scalability
+  - Created calculated fields for metrics such as total revenue and average discount
+  - Ensured consistent category and segment naming for reliable aggregation
+
+### Exploratory Data Analysis (EDA)
+Key analytical questions explored:
+
+ - How do sales and revenue change over time?
+ - What is the relationship between discounts and sales volume?
+ - Which segments contribute most to overall revenue?
+ - How does quantity sold influence total sales performance?
+ 
 
