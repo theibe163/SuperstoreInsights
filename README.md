@@ -10,7 +10,7 @@ This project analyzes sales data to evaluate business performance and uncover tr
 An interactive dashboard was created to summarize key metrics and support quick, data-driven insights.
 
 ### Data Sources
-The primay source of Data used here is Data Sale.csv and this is an open source daa thta can be freely downloaded from an open source onlin which is kaggle.
+The primay source of Data used here is Data Sale.csv and this is an open source daa thta can be freely downloaded from an open source online which is kaggle.
 
 ### Tools Used
 
