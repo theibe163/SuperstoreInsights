@@ -4,13 +4,17 @@ Practice project: Excel-based Superstore sales dashboard. Explores sales trend, 
 
 ## Project Topic: Sales Performance Analysis Using Excel
 
+### Dashboard Preview
+Here is a screenshot of the dashboard for quick overview:
+![Dashboard Overview](https://github.com/theibe163/SuperstoreInsights/blob/main/Dashboard%20Overview.png)
+
 ### Project Overview
 This project analyzes sales data to evaluate business performance and uncover trends using Microsoft Excel. The objective was to move beyond basic charts and apply exploratory analysis to understand sales behavior, revenue drivers, and the impact of discounts.
 
 An interactive dashboard was created to summarize key metrics and support quick, data-driven insights.
 
 ### Data Sources
-The primay source of Data used here is [Download Here](https://www.kaggle.com/) and this is an open source that can be freely downloaded from an open source online which is kaggle.
+The primay source of Data used here is [Download Here](https://www.kaggle.com/datasets/aksha17/superstore-sales) and this is an open source that can be freely downloaded from an open source online which is kaggle.
 
 ### Tools Used
 
@@ -20,10 +24,6 @@ The primay source of Data used here is [Download Here](https://www.kaggle.com/) 
   - Calculated fields
   - Excel Tables
   - Dashboard design best practices
- 
-### Dashboard Preview
-Here is a screenshot of the dashboard for quick overview:
-![Dashboard Overview](
  
 ### Data Cleaning and Preparation
 Before analysis and dashboard development, the dataset was cleaned and structured to ensure accuracy and consistency:
