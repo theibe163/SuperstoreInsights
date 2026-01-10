@@ -10,16 +10,20 @@ This project analyzes sales data to evaluate business performance and uncover tr
 An interactive dashboard was created to summarize key metrics and support quick, data-driven insights.
 
 ### Data Sources
-The primay source of Data used here is Data Sale.csv and this is an open source daa thta can be freely downloaded from an open source online which is kaggle.
+The primay source of Data used here is [Download Here](https://www.kaggle.com/) and this is an open source that can be freely downloaded from an open source online which is kaggle.
 
 ### Tools Used
 
 - Microsoft Excel
-  - Data cleaning and formatting [Download Here](www.kaggle.com)
+  - Data cleaning and formatting 
   - Pivot Tables and Pivot Charts
   - Calculated fields
   - Excel Tables
   - Dashboard design best practices
+ 
+### Dashboard Preview
+Here is a screenshot of the dashboard for quick overview:
+![Dashboard Overview](
  
 ### Data Cleaning and Preparation
 Before analysis and dashboard development, the dataset was cleaned and structured to ensure accuracy and consistency:
